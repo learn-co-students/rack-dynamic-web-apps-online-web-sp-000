@@ -1,4 +1,4 @@
-class Application
+class Application #changes
 
   def call(env)
     resp = Rack::Response.new
